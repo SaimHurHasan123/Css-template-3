@@ -144,17 +144,4 @@
     font-size:18px;
     color:#fff;
 }
-#footer
-{
-    padding:25px 20px;
-}
 
-#footer p
-{
-    display:inline-block;
-}
-
-#footer p:nth-child(2)
-{
-    float:right;
-}
